@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_scriptsmain\Destroybytime.cs">
+    <Files>
+      <File FileName="Assets\_scriptsmain\PlayerController.cs" Line="26" Column="39" />
+      <File FileName="Assets\_scriptsmain\mover.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scriptsmain\destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scriptsmain\astroidrotete.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scriptsmain\destroybycomtact.cs" Line="20" Column="67" />
+      <File FileName="Assets\_scriptsmain\Destroybytime.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
